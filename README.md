@@ -6,7 +6,8 @@ A list of interesting content I came across during my python/data science learni
 
 ## Python
 * [Real Python article on Regex](https://realpython.com/regex-python/)  
-* Regex for working with textual data can be so powerful. I feel there are a lot of articles out there with the basics, but few have the clarity of this one. Also, great examples in there. 
+Regex for working with textual data can be so powerful. I feel there are a lot of articles out there with the basics, but few have the clarity of this one. Also, great examples in there. 
+* Python 3 Deep Dive by Fred Baptiste
 
 ## Pandas
 * [Pandas historgram from dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.hist.html)  
